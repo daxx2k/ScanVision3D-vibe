@@ -1,0 +1,5 @@
+{
+  "name": "ScanVision 3D",
+  "description": "An advanced 3D model viewer with scanning effects, supporting GLB, GLTF, OBJ, and FBX formats.",
+  "requestFramePermissions": []
+}
